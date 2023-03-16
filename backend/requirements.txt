@@ -1,0 +1,13 @@
+asgiref==3.5.2 done (3.6.0)
+Django==4.1.2 done (3.2.18)
+django-cors-headers==3.13.0 done same
+django-filter==22.1 done same
+django-resized==1.0.2 done same
+djangorestframework==3.14.0 done same
+djangorestframework-simplejwt==5.2.1 done same
+Pillow==9.2.0 done same
+PyJWT==2.6.0 done same
+pytz==2022.5 done (2022.7.1)
+sqlparse==0.4.3 done same
+typing_extensions==4.4.0 done (4.5.0)
+tzdata==2022.5 done same
