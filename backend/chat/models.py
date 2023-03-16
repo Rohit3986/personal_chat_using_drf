@@ -11,7 +11,6 @@ class Room(models.Model):
         return str(self.name)
 
 
-
 class Chat(models.Model):
     room = models.ForeignKey(Room, on_delete=models.CASCADE, blank=False, related_name="room")
     #to
